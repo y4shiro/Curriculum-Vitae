@@ -8,7 +8,6 @@
 |Qiita|[y4shiro](http://qiita.com/y4shiro)|
 
 ## スキル
-### 言語
 - JavaScript(ES6)
 - Vue.js
 - Node.js
@@ -16,7 +15,7 @@
 - Unity(C#)
 - PHP
 - Ruby
-- Ruby on Rails
+- Ruby on Rails(5.x 以降)
 - Nginx
 - Express
 - Docker
