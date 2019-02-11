@@ -6,3 +6,29 @@
 |Blog|[雑なやつ](http://ram.hatenablog.jp/)|
 |Twitter|[@ram1009](https://twitter.com/ram1009)|
 |Qiita|[y4shiro](http://qiita.com/y4shiro)|
+
+## スキル
+### 言語
+- JavaScript(ES6)
+- Vue.js
+- Node.js
+- Electron
+- Unity(C#)
+- PHP
+- Ruby
+- Ruby on Rails
+- Nginx
+- Express
+- Docker
+- GitHub
+- CircleCI
+- AWS
+  - EC2
+  - RDS
+  - DynamoDB
+  - ElastiCache
+  - S3
+  - Kinesis
+  - ECS
+  - Lambda
+  - SQS
