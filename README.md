@@ -3,11 +3,19 @@
 |key|value|
 |---|-----|
 |Name|山城 巨樹(Naoki Yamashiro)|
+|Mail|y4shironao@gmail.com|
 |Blog|[雑なやつ](http://ram.hatenablog.jp/)|
 |Twitter|[@ram1009](https://twitter.com/ram1009)|
 |Qiita|[y4shiro](http://qiita.com/y4shiro)|
 
-## 職務経歴(概要)
+## 現在興味のある技術/分野
+- JavaScript
+  - Vue.js
+  - React.js
+- Native App
+  - Swift
+  - Kotlin
+  - React Native
 
 ## スキル
 - JavaScript(ES6)
@@ -39,6 +47,11 @@
 
 ## 職務経歴(現職以前)
 ### 株式会社F(2014/07 ~ 2016/02)
+- スマートフォンアプリ運営巻取り
+- Web サイト改修・更新
+- 求人/職業マッチングサービス開発
+- スマートフォンアプリ開発
+
 ### 株式会社T(2013/04 ~ 2014/04)
 - インバウンド業務(2013/04 ~ 2013/07)
   - インターネットテレビ配信に関する問い合わせ対応
