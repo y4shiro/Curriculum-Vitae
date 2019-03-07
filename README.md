@@ -23,8 +23,10 @@
 - Vue.js
 - Node.js
 - Electron
+- CSS
 - Unity(C#)
 - PHP
+- Python
 - Ruby
 - Ruby on Rails(5.x 以降)
 - Nginx
