@@ -64,9 +64,9 @@
 - Web サイト改修 / 運用(2014/10 ~ 2014/11)
   -  LAMP / jQuery
 - 求人 / 求職マッチングサービス開発(2014/11 ~ 2015/03)
-  - WordPress / jQuery / LAMP
+  - WordPress / LAMP / jQuery
 - スマートフォンアプリ開発(2015/04 ~ 2016/02)
-  - Unity(C#)
+  - Unity 4.x(C#)
   - App Store / Google Play にリリース
   - 最終的に 4 本リリース済み
 
