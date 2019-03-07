@@ -59,7 +59,7 @@
 
 - 生放送サービスのコメント監視支援ツール開発 (Web 版) (2018/01 ~ 2018/06)
   - 開発 / 運用
-  - Rails / Vue.js / EC2 / ElastiCache / RDS / CircleCI
+  - Rails / Vue.js / Nginx / EC2 / ElastiCache / RDS / CircleCI
 - 生放送サービスのコメント監視支援ツール開発 (アプリケーション版) (2018/07 ~ 2018/10)
   - 開発 / 運用
   - Rails / Electron / Vue.js / S3 / ECS / DynamoDB / Kinesis / Docker / CircleCI
@@ -68,7 +68,7 @@
   - Python / Lambda / S3 / SQS / DynamoDB / Google Apps Script
 - チャットツールストレージコスト削減プロジェクト(2018/11 ~ )
   - 開発
-  - Rails / EC2 / RDS / Ansible / Capistorano / Docker
+  - Rails / Nginx / EC2 / RDS / Ansible / Capistorano / Docker
 - ブログコメント監視支援ツール (2018/03 ~ )
   - 改修 / 運用
   - PHP / Fuel / Jenkins
