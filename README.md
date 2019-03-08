@@ -13,11 +13,13 @@
 - JavaScript
   - Vue.js
   - React.js
+  - TypeScript
 - Native App
   - Swift
   - Kotlin
   - React Native
-- VR関連
+- VR/AR 関連
+  - 個人的に追っているだけで、開発したい訳ではない
 
 
 ## スキル
