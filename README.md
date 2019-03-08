@@ -62,7 +62,7 @@
   - Rails / Vue.js / Nginx / EC2 / ElastiCache / RDS / CircleCI
 - 生放送サービスのコメント監視支援ツール開発 (アプリケーション版) (2017/07 ~ 2018/10)
   - 開発 / 運用
-  - Rails / Electron / Vue.js / S3 / ECS / DynamoDB / Kinesis / Docker / CircleCI
+  - Electron / Vue.js / S3 / ECS / DynamoDB / Kinesis / Docker / CircleCI
 - アドネットワーク表示先の監視と結果出力(2018/10 ~ 2019/03)
   - 改修 / 運用
   - Python / Lambda / S3 / SQS / DynamoDB / Google Apps Script
