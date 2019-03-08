@@ -65,7 +65,7 @@
 - Electron / Vue.js / S3 / ECS / DynamoDB / Kinesis / Docker / CircleCI
 #### アドネットワーク表示先の監視と結果出力(2018/10 ~ 2019/03)
 - 改修 / 運用
-- Python / Lambda / S3 / SQS / DynamoDB / Google Apps Script
+- Python / Lambda / S3 / SQS / DynamoDB / Serverless / Google Apps Script / Google Drive
 #### チャットツールストレージコスト削減プロジェクト(2018/11 ~ )
 - 開発
 - Rails / Nginx / EC2 / RDS / Ansible / Capistorano / Docker
