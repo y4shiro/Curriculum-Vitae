@@ -57,21 +57,21 @@
 ### 株式会社シーエー・アドバンス(2016/12 ~ )
 時期によっては重複しているプロジェクトもあります。
 
-- 生放送サービスのコメント監視支援ツール開発 (Web 版) (2017/01 ~ 2017/06)
-  - 開発 / 運用
-  - Rails / Vue.js / Nginx / EC2 / ElastiCache / RDS / CircleCI
-- 生放送サービスのコメント監視支援ツール開発 (アプリケーション版) (2017/07 ~ 2018/10)
-  - 開発 / 運用
-  - Electron / Vue.js / S3 / ECS / DynamoDB / Kinesis / Docker / CircleCI
-- アドネットワーク表示先の監視と結果出力(2018/10 ~ 2019/03)
-  - 改修 / 運用
-  - Python / Lambda / S3 / SQS / DynamoDB / Google Apps Script
-- チャットツールストレージコスト削減プロジェクト(2018/11 ~ )
-  - 開発
-  - Rails / Nginx / EC2 / RDS / Ansible / Capistorano / Docker
-- ブログコメント監視支援ツール (2018/03 ~ )
-  - 改修 / 運用
-  - PHP / Fuel / Jenkins
+#### 生放送サービスのコメント監視支援ツール開発 (Web 版) (2017/01 ~ 2017/06)
+- 開発 / 運用
+- Rails / Vue.js / Nginx / EC2 / ElastiCache / RDS / CircleCI
+####  生放送サービスのコメント監視支援ツール開発 (アプリケーション版) (2017/07 ~ 2018/10)
+- 開発 / 運用
+- Electron / Vue.js / S3 / ECS / DynamoDB / Kinesis / Docker / CircleCI
+#### アドネットワーク表示先の監視と結果出力(2018/10 ~ 2019/03)
+- 改修 / 運用
+- Python / Lambda / S3 / SQS / DynamoDB / Google Apps Script
+#### チャットツールストレージコスト削減プロジェクト(2018/11 ~ )
+- 開発
+- Rails / Nginx / EC2 / RDS / Ansible / Capistorano / Docker
+#### ブログコメント監視支援ツール (2018/03 ~ )
+- 改修 / 運用
+- PHP / Fuel / Jenkins
 
 
 
